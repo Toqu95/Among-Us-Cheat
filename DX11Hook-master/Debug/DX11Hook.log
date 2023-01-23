@@ -1,0 +1,25 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (DX11Hook.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Main.cpp
+C:\Users\robin\Desktop\TestingCheats\AmongUs\DX11Hook-master\InternalFunctions.h(49,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\robin\Desktop\TestingCheats\AmongUs\DX11Hook-master\InternalFunctions.h(102,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\robin\Desktop\TestingCheats\AmongUs\DX11Hook-master\InternalFunctions.h(110,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\robin\Desktop\TestingCheats\AmongUs\DX11Hook-master\Main.cpp(212,53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\robin\Desktop\TestingCheats\AmongUs\DX11Hook-master\Main.cpp(213,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\robin\Desktop\TestingCheats\AmongUs\DX11Hook-master\Main.cpp(214,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\robin\Desktop\TestingCheats\AmongUs\DX11Hook-master\Main.cpp(215,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\robin\Desktop\TestingCheats\AmongUs\DX11Hook-master\Main.cpp(217,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\robin\Desktop\TestingCheats\AmongUs\DX11Hook-master\Main.cpp(218,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\robin\Desktop\TestingCheats\AmongUs\DX11Hook-master\Main.cpp(219,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\robin\Desktop\TestingCheats\AmongUs\DX11Hook-master\Main.cpp(220,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\robin\Desktop\TestingCheats\AmongUs\DX11Hook-master\Main.cpp(221,58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\robin\Desktop\TestingCheats\AmongUs\DX11Hook-master\Main.cpp(243,36): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+  libMinHook.x86.lib(hook.obj) : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+MSVCRTD.lib(initializers.obj) : warning LNK4098: defaultlib 'libcmt.lib' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  Finished generating code
+  DX11Hook.vcxproj -> C:\Users\robin\Desktop\TestingCheats\AmongUs\DX11Hook-master\Debug\AmongYou.dll

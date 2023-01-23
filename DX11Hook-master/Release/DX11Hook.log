@@ -1,0 +1,10 @@
+﻿  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  Main.cpp
+LINK : fatal error C1047: The object or library file 'MinHook\libMinHook.x86.lib' was created by a different version of the compiler than other objects like 'Release\imgui.obj'; rebuild all objects and libraries with the same compiler
+LINK : fatal error LNK1257: code generation failed
